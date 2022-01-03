@@ -21,7 +21,6 @@ Here are some more examples,
 
 
 
-![image](https://user-images.githubusercontent.com/20862520/147911825-65256819-915f-41a3-ac1e-e785d6ce07b7.png)
 
 
 
