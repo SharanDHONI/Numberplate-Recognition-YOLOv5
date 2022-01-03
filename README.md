@@ -7,6 +7,9 @@ The Accuracy isn't that great, but the point being, the model has done pretty de
 The next step would be to crop the numberplates alone and extract the text out of them. This can be made with libraries like Easy OCR or PyTesseract 
 Once text is extracted, we can compare that with the list of numberplates that are allowed inside a particular place
 
+We can also compress the NMS to a minimum threshold and therby reducing the clutter during the runtime! 
+
+
 In the below image, you can see that the model was able to identify the type of vehicle as well as the Numberplate.
 ![red](https://user-images.githubusercontent.com/20862520/147906666-4aa7f3c0-abc7-4bde-a773-404685f390f7.jpg)
 
