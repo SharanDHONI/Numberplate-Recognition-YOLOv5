@@ -9,4 +9,7 @@ Once text is extracted, we can compare that with the list of numberplates that a
 
 ![red](https://user-images.githubusercontent.com/20862520/147906666-4aa7f3c0-abc7-4bde-a773-404685f390f7.jpg)
 
+![red](https://user-images.githubusercontent.com/20862520/147911514-262d3cca-8f0c-4a6e-981b-344904a2739b.jpg)
+
+
 
