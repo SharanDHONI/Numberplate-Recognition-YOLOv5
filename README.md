@@ -16,7 +16,12 @@ Here, the Numberplate alone has been cropped seperately and will be passed to a 
 
 Here are some more examples,
 
+
 ![image](https://user-images.githubusercontent.com/20862520/147911714-6877ab00-3685-48bb-a1ac-ce5c8e6242ff.png)
+
+
+
+![image](https://user-images.githubusercontent.com/20862520/147911825-65256819-915f-41a3-ac1e-e785d6ce07b7.png)
 
 
 
