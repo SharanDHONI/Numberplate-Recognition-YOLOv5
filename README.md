@@ -6,3 +6,6 @@ The Accuracy isn't that great, but the point being, the model has done pretty de
 
 The next step would be to crop the numberplates alone and extract the text out of them. This can be made with libraries like Easy OCR or PyTesseract 
 Once text is extracted, we can compare that with the list of numberplates that are allowed inside a particular place
+
+
+
