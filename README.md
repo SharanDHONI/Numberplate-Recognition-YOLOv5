@@ -1,8 +1,7 @@
 # Numberplate-Recognition-YOLOv5
 
 Collected around 2000 images of Vehicles (Imbalanced mix of classes. Cars were more in number) and Annotated the Vehicles and their Numberplates using LabelIMG.
-Trained the images using the YOLOv5s (for only 10 epochs because of hardware constraints) and this public repo consists of the samples of the data of which I tested the model.
-The Accuracy isn't that great, but the point being, the model has done pretty decently well with the unbalanced mix of data. 
+Trained the images using the YOLOv5L and this public repo consists of the samples of the data of which I tested the model.
 
 The next step would be to crop the numberplates alone and extract the text out of them. This can be made with libraries like Easy OCR or PyTesseract 
 Once text is extracted, we can compare that with the list of numberplates that are allowed inside a particular place
@@ -17,7 +16,7 @@ Here, the Numberplate alone has been cropped seperately and will be passed to a 
 
 
 
-Here are some more Examples! 
+Here are some more examples! 
 
 
 ![share](https://user-images.githubusercontent.com/20862520/149266907-0d5cc005-4ee5-4103-b003-91c6fd01db02.jpg)
