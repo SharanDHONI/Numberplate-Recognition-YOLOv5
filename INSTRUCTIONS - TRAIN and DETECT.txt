@@ -1,0 +1,12 @@
+
+Inside Command line (anaconda)
+
+To train custom data
+python train.py --img 416 --batch 8 --epochs 30 --data custom_data.yaml --weights yolov5s/v5m/v5l/v5x.pt --cache  
+
+To resume training 
+python train.py --resume path/to/last.pt  # specify resume checkpoint
+
+To detect the objects using pretrained weights, 
+
+python detect.py --source ./data/images/abc.jpg (or0 for webcam) --weights ./runs/exp4/best.pt (or last.pt)
