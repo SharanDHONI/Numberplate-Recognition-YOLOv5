@@ -21,7 +21,6 @@ Here are some more examples!
 
 ![share](https://user-images.githubusercontent.com/20862520/149266907-0d5cc005-4ee5-4103-b003-91c6fd01db02.jpg)
 ![share](https://user-images.githubusercontent.com/20862520/149266920-741c5569-29b9-496c-9f4a-5c3760da6930.jpg)
-![share](https://user-images.githubusercontent.com/20862520/149266926-c5906e26-1d76-4098-b351-ea1f106b40ff.jpg)
 ![share](https://user-images.githubusercontent.com/20862520/149266934-486f56ce-fe9c-4f8b-b556-40276a2d2a92.jpg)
 
 
