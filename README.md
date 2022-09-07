@@ -8,6 +8,7 @@ Once text is extracted, we can compare that with the list of numberplates that a
 
 We can also compress the NMS to a minimum threshold and therby reducing the clutter during the runtime! 
 
+## You can find more images / Outputs in the "Results" Directory
 
 In the below image, you can see that the model was able to identify the type of vehicle as well as the Numberplate.
 ![red](https://user-images.githubusercontent.com/20862520/147906666-4aa7f3c0-abc7-4bde-a773-404685f390f7.jpg)
