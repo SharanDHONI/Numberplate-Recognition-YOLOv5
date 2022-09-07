@@ -15,7 +15,8 @@ In the below image, you can see that the model was able to identify the type of 
 ![red](https://user-images.githubusercontent.com/20862520/147911514-262d3cca-8f0c-4a6e-981b-344904a2739b.jpg)
 
 
-Here, the Numberplate alone has been cropped seperately and will be passed to a function that can extract text out of the image. Eg, pyTesseract, TesserOCR etc.
+Here, the Numberplate alone has been cropped seperately and will be passed to a 
+function that can extract text out of the image. Eg, pyTesseract, TesserOCR etc.
 
 
 
