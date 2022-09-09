@@ -22,7 +22,7 @@ function that can extract text out of the image. Eg, pyTesseract, TesserOCR etc.
 
 
 
-Below are some more examples !
+## Below are some more examples !
 
 
 ![Streets_Of_Chennai](https://user-images.githubusercontent.com/20862520/189132881-163fc0a8-0901-45fb-ab31-11b38538be57.gif)
