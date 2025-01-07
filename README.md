@@ -3,8 +3,11 @@
 Collected around 2000 images of Vehicles and Annotated the Vehicles and their Numberplates using the LabelIMG.
 Trained the images using the YOLOv5L and this public repo consists of the samples of the data of which I tested the model.
 
-The next step would be to crop the numberplates alone and extract the text out of them. This can be made with libraries like Easy OCR or PyTesseract 
-Once text is extracted, we can compare that with the list of numberplates that are allowed inside a particular place
+The next step would be to crop the numberplates alone and extract the text out of them. This can be made with libraries like PyTesseract 
+Once text is extracted, we can compare that with the list of numberplates that are allowed inside a particular institution / org! 
+
+The results are tested on Indian conditions where the number plates might not all be the same. We have lots of inconsistencies, yet the model was able to extract the liscense plates and the type of vehicle. 
+On foreign conditions, the model performed much better! 
 
 We can also compress the NMS to a minimum threshold and therby reducing the clutter during the runtime! 
 
