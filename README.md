@@ -13,6 +13,8 @@ We can also compress the NMS to a minimum threshold and therby reducing the clut
 In the below image, you can see that the model was able to identify the type of vehicle as well as the Numberplate.
 
 
+![abudhabi](https://github.com/user-attachments/assets/e31a5464-d642-4fc9-9703-08f83d9d6abd)
+
 ![red](https://user-images.githubusercontent.com/20862520/147906666-4aa7f3c0-abc7-4bde-a773-404685f390f7.jpg)
 ![red](https://user-images.githubusercontent.com/20862520/147911514-262d3cca-8f0c-4a6e-981b-344904a2739b.jpg)
 
